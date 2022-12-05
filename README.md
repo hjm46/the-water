@@ -1,5 +1,5 @@
 # the-water
-Big Ideas Final Project analyzing which neighborhood in Pittsburgh has the most water.
+Big Ideas Final Project analyzing which neighborhood in Pittsburgh has the most water in liters.
 
 ## Project Members:
 Jace Martin - hjm46@pitt.edu
