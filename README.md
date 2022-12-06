@@ -1,5 +1,5 @@
 # the-water
-Big Ideas Final Project analyzing which neighborhood in Pittsburgh has the most water in liters.
+In this project we analyzed which neighborhood has the most total water in liters using the Water Features, Pools, and Fire Incidents datasets.
 
 ## Project Members:
 Jace Martin - hjm46@pitt.edu
